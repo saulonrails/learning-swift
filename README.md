@@ -1,4 +1,4 @@
-<h4>Features</h4>
+<h1>Features</h1>
   <ul>
     <li>Arrays</li>
     <li>Conditions</li>
